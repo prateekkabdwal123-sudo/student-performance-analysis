@@ -1,0 +1,21 @@
+customer_id,gender,senior_citizen,partner,dependents,tenure,phone_service,internet_service,monthly_charges,total_charges,churn
+1001,Male,0,Yes,No,12,Yes,Fiber optic,85.5,1026.0,Yes
+1002,Female,0,No,No,1,Yes,DSL,45.0,45.0,Yes
+1003,Male,1,Yes,No,45,Yes,Fiber optic,99.2,4464.0,No
+1004,Female,0,Yes,Yes,60,Yes,DSL,65.0,3900.0,No
+1005,Male,0,No,No,3,Yes,Fiber optic,89.9,269.7,Yes
+1006,Female,0,No,Yes,24,No,DSL,30.5,732.0,No
+1007,Male,1,No,No,8,Yes,Fiber optic,95.3,762.4,Yes
+1008,Female,0,Yes,Yes,72,Yes,DSL,55.0,3960.0,No
+1009,Male,0,Yes,No,15,Yes,Fiber optic,88.1,1321.5,Yes
+1010,Female,0,No,No,5,Yes,DSL,49.9,249.5,Yes
+1011,Male,0,Yes,Yes,50,Yes,Fiber optic,91.7,4585.0,No
+1012,Female,1,No,No,10,Yes,Fiber optic,94.2,942.0,Yes
+1013,Male,0,Yes,No,40,Yes,DSL,60.0,2400.0,No
+1014,Female,0,Yes,Yes,65,Yes,DSL,58.5,3802.5,No
+1015,Male,1,No,No,6,Yes,Fiber optic,97.8,586.8,Yes
+1016,Female,0,No,Yes,28,No,DSL,33.0,924.0,No
+1017,Male,0,Yes,No,18,Yes,Fiber optic,86.3,1553.4,Yes
+1018,Female,0,Yes,Yes,55,Yes,DSL,57.0,3135.0,No
+1019,Male,1,No,No,4,Yes,Fiber optic,93.5,374.0,Yes
+1020,Female,0,Yes,No,36,Yes,DSL,59.9,2156.4,No
